@@ -1,0 +1,14 @@
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\bin\Debug\WpfDependencyInjection.exe.config
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\bin\Debug\WpfDependencyInjection.exe
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\bin\Debug\WpfDependencyInjection.pdb
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\MainWindow.g.cs
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\App.g.cs
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\WpfDependencyInjection_MarkupCompile.cache
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\WpfDependencyInjection_MarkupCompile.lref
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\MainWindow.baml
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\WpfDependencyInjection.g.resources
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\WpfDependencyInjection.Properties.Resources.resources
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\WpfDependencyInjection.csproj.GenerateResource.Cache
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\WpfDependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\WpfDependencyInjection.exe
+C:\Users\castro\source\repos\WpfDependencyInjection\WpfDependencyInjection\obj\Debug\WpfDependencyInjection.pdb
